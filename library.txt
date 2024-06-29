@@ -1,0 +1,4 @@
+1,To Kill A Mockingbird,Harper Lee,Historical Fiction,1960,True
+2,The Great Gatsby,F. Scott Fitzgerald,Tragedy,1925,False
+3,1984,George Orwell,Dystopian Science Fiction,1949,True
+4,Pride and Prejudice,Jane Austen,Romance,1813,True
